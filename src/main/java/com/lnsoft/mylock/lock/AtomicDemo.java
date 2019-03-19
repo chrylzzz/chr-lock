@@ -3,6 +3,7 @@ package com.lnsoft.mylock.lock;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
+ * 测试单个基本类型的原子性：JDK
  * Created By Chr on 2019/3/19/0019.
  */
 public class AtomicDemo {

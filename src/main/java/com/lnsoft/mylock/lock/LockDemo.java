@@ -1,7 +1,7 @@
 package com.lnsoft.mylock.lock;
 
 /**
- * 测试cas
+ * 测试原子性
  * Created By Chr on 2019/3/13/0013.
  */
 public class LockDemo {
